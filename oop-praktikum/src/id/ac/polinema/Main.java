@@ -7,6 +7,10 @@ public class Main {
         shapes[1] = new Rectangle(3, 3);
         shapes[2] = new Rectangle(8, 2);
 
+        Circle bulat = new Circle(5);
+        System.out.println("Luas Lingkaran: " + bulat.area());
+        System.out.println("Keliling Lingkaran: " + bulat.circumference());
+
         for (Rectangle r : shapes) {
             System.out.println("Area: " + r.area() + ", Perimeter: " + r.perimeter());
         }
