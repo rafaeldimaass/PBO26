@@ -1,4 +1,4 @@
-package src.id.ac.polinema.inheritance.percobaan3;
+package id.ac.polinema.inheritance.percobaan3;
 
 public class Bangun {
     protected double phi;

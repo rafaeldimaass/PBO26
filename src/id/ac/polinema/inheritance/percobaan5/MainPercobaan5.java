@@ -1,4 +1,4 @@
-package src.id.ac.polinema.inheritance.percobaan5;
+package id.ac.polinema.inheritance.percobaan5;
 
 public class MainPercobaan5 {
     public static void main(String[] args) {

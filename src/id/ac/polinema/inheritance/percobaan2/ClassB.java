@@ -1,4 +1,4 @@
-package src.id.ac.polinema.inheritance.percobaan2;
+package id.ac.polinema.inheritance.percobaan2;
 
 public class ClassB extends ClassA {
     public int z;

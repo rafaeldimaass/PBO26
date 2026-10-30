@@ -1,4 +1,4 @@
-package src.id.ac.polinema.inheritance.percobaan5;
+package id.ac.polinema.inheritance.percobaan5;
 
 public class Komputer {
     protected String merk;
